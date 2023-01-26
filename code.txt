@@ -4,3 +4,5 @@ this is my new changes
 
 changes on feature1 branch
 
+final changes on feature1 branch
+
